@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+libite (2.5.1-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release
+  * Bump Standards-Version to 4.6.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Yangfl <mmyangfl@gmail.com>  Sun, 23 Jan 2022 02:03:34 +0800
+
+libite (2.2.0-2) unstable; urgency=medium
+
+  * Add autopkgtest
+
+ -- Yangfl <mmyangfl@gmail.com>  Wed, 15 Jul 2020 00:45:23 +0800
+
+libite (2.2.0-1) unstable; urgency=medium
+
+  * Initial Release
+
+ -- Yangfl <mmyangfl@gmail.com>  Sat, 30 May 2020 13:36:49 +0800
